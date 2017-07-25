@@ -7,7 +7,7 @@
         {
             "taskName": "build",
             "args": [
-                "${workspaceRoot}/autofac_aop.csproj"
+                "${workspaceRoot}/Proxy/Proxy.csproj"
             ],
             "isBuildCommand": true,
             "problemMatcher": "$msCompile"

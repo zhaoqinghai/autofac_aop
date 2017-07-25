@@ -27,7 +27,7 @@ namespace Proxy
 
             viewmodel.ExcuteAdd(3,9);
 
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 
